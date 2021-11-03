@@ -1,3 +1,4 @@
+되는것 키보드만 연결하면됨 
 Arduino Basic
 =============
 Now you can turn your Arduino into an 80's home computer!
